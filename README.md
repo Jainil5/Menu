@@ -1,2 +1,2 @@
-# Menu
-The menu for Jashmin's premix packets.
+# Jashmin's Menu
+### List of items of Jashmin's premix packets.
